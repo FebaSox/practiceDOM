@@ -1,0 +1,38 @@
+body {
+    background-color: #333;
+    color: #eee;
+}
+
+#cart-id {
+    position: fixed;
+    padding: .5rem;
+    font-size: 2rem;
+    top: 15px;
+    right: 15px;
+}
+
+.item-container {
+    border: 1px solid brown !important;
+    margin: .5rem;
+    padding: .5rem;
+}
+
+.modal {
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #336;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center;
+}
+
+.modal-card {
+    background-color: #eee;
+    color: #335;
+    border-radius: 8px;
+    padding: 1rem;
+}
