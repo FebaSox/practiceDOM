@@ -1,9 +1,4 @@
-/*im drinking wocky and wocky im tired as.. 
-im drinking wocky and wocky im
-im drinking wocky and wocky im tired of this sheett 
-got the 100 rnd ppput it on the side of this beach
-she trynna kick it i only want top and thats it
-i feel like vin deisel im driving this beachh*/
+
 
 //Display the shopping items
 
